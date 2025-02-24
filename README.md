@@ -10,7 +10,7 @@ This project explores **Spotify music data** to uncover insights into song chara
 - Visualize trends in **artists, genres, and song popularity**  
 - Identify correlations between **song features and popularity**  
 
-## **📂 Dataset**  
+## **📂 Dataset (data)**  
 The dataset contains information on thousands of songs, including:  
 - 🎤 **Artist Name**  
 - 🎵 **Track Name**  
@@ -18,16 +18,17 @@ The dataset contains information on thousands of songs, including:
 - ⭐ **Popularity Score**  
 
 ## **🛠 Tech Stack & Tools**  
-- **Python** 🐍  
+- **Python**  
 - **Pandas & NumPy** – Data manipulation  
 - **Matplotlib & Seaborn** – Data visualization  
 - **Plotly** – Interactive charts  
 - **Jupyter Notebook** – Exploratory analysis  
 
 ## **📊 Key Insights**  
-🔹 **Which artists dominate the Spotify charts?**  
-🔹 **What audio features contribute to a song’s popularity?**  
-🔹 **How do genres differ in tempo, energy, and danceability?**  
+🔹 **Most Popular artist**
+🔹**Top loudest  tracks**
+🔹**Artist with the most dance able song**
+🔹**Top instrumentalness songs**
 
 ## **📌 How to Use**  
 1️⃣ Clone the repository:  
